@@ -12,3 +12,16 @@ To design an interactive Power BI dashboard showcasing Virat Kohli’s career st
 - Highest Score – What is his highest individual score in each format?
 - Strike Rate – What is his career strike rate across formats?
 - Total Matches Played – How many international matches has he played?
+
+## Project Process
+1️ Data Collection
+Collected Virat Kohli’s career statistics from reliable cricket sources and imported the dataset into Power BI for analysis.
+
+2️ Data Cleaning & Transformation
+Used Power Query to clean, filter, and shape the raw data (handled null values, corrected data types, and created calculated columns).
+
+3️ Dashboard Design & Visualization
+Created interactive charts, KPIs, and slicers to showcase key metrics like total runs, averages, centuries, and year-wise performance trends.
+
+4️ Insights & Publishing
+Analyzed patterns in the data and published an interactive dashboard that allows users to explore Kohli’s performance across formats and opponents.
