@@ -29,3 +29,6 @@ To design an interactive Power BI dashboard showcasing Virat Kohli’s career st
 ## Dashboard
 <img width="1318" height="741" alt="Screenshot 2025-07-11 202428" src="https://github.com/user-attachments/assets/9c89b4da-48d1-48a1-88d2-443636561874" />
 
+## Conclusion
+This Power BI project effectively visualizes Virat Kohli’s cricket career statistics, providing an interactive platform to explore his performances across formats, years, and opponents. By analyzing key metrics such as total runs, averages, centuries, and strike rates, the dashboard highlights Kohli’s consistency and dominance as a modern-day cricket legend. This project demonstrates the power of data visualization in uncovering meaningful insights from sports data.
+
