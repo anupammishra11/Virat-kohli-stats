@@ -25,3 +25,7 @@ To design an interactive Power BI dashboard showcasing Virat Kohli’s career st
 
 4️ Insights & Publishing :
  Analyzed patterns in the data and published an interactive dashboard that allows users to explore Kohli’s performance across formats and opponents.
+
+## Dashboard
+<img width="1318" height="741" alt="Screenshot 2025-07-11 202428" src="https://github.com/user-attachments/assets/9c89b4da-48d1-48a1-88d2-443636561874" />
+
