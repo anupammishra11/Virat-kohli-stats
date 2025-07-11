@@ -1,2 +1,3 @@
-# Virat-kohli-stats
-This Power BI project visualizes Virat Kohli’s cricket career statistics using an interactive dashboard. It allows users to explore his runs, averages, strike rates, and in various formats (ODI, T20, Test). The dashboard provides insights into his year-wise trends, top-performing venues, and overall consistency as a batsman.
+# Power BI Dashboard | Virat Kohli Career Insights
+## Project Objective
+To design an interactive Power BI dashboard showcasing Virat Kohli’s career statistics, enabling users to analyze his performance across different formats, years, and opponents using dynamic visualizations.
